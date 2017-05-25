@@ -1,4 +1,4 @@
-# mlg is not dead
+mlg is not dead
   
   
 According to all known laws
